@@ -1,0 +1,10 @@
+C:\Users\steven\source\repos\GoFileNet\GoFileNet\bin\Debug\GoFileNet.dll
+C:\Users\steven\source\repos\GoFileNet\GoFileNet\bin\Debug\GoFileNet.pdb
+C:\Users\steven\source\repos\GoFileNet\GoFileNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\steven\source\repos\GoFileNet\GoFileNet\obj\Debug\GoFileNet.csproj.AssemblyReference.cache
+C:\Users\steven\source\repos\GoFileNet\GoFileNet\obj\Debug\GoFileNet.csproj.CoreCompileInputs.cache
+C:\Users\steven\source\repos\GoFileNet\GoFileNet\obj\Debug\GoFileNet.csproj.Up2Date
+C:\Users\steven\source\repos\GoFileNet\GoFileNet\obj\Debug\GoFileNet.dll
+C:\Users\steven\source\repos\GoFileNet\GoFileNet\obj\Debug\GoFileNet.pdb
+C:\Users\steven\source\repos\GoFileNet\GoFileNet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\steven\source\repos\GoFileNet\GoFileNet\obj\Debug\GoFileNet.csproj.Fody.CopyLocal.cache
