@@ -1,4 +1,4 @@
-﻿using GoFileNet.GoFileNet.Entities;
+using GoFileNet.GoFileNet.Entities;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GoFileNet.GoFileNet
+namespace GoFileNet.GoFileClient
 {
     public class GofileClient : IDisposable
     {
