@@ -18,9 +18,6 @@ using GoFileNet.GoFileNet;
  {
      GofileClient gofileClient = new GofileClient("accountToken", "accountIdentifier");
      AccountInfo accountInfo = await gofileClient.GetAccountInfoAsync();
-     Console.WriteLine(accountInfo.Data.Email);
-
      UploadResponse uploadResponse = await gofileClient.UploadFileAsync("filePath", "folderId");
-     Console.WriteLine(uploadResponse.Data.FileId);
  }
 ```
