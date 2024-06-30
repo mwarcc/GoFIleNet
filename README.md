@@ -10,7 +10,7 @@ GoFileNet is a .NET library for easy interaction with the unofficial GoFile.io A
 
 # Usage example
 ```cs
-using GoFileNet.GoFileNet;
+using GoFileNet.GoFileClient;
 ```
 
 ```cs
